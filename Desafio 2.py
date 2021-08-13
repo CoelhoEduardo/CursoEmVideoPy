@@ -1,0 +1,10 @@
+dia = input('Dia=')
+mes = input('Mes=')
+ano = input('Ano=')
+
+print(' Você nasceu no dia'+dia,'de',mes,'de',ano, 'correto?')
+print('demora para fechar cacete')
+print('nao feche agora')
+print('aaaaaa')
+print('bbbbb')
+print('djsajdasdisaohfoiahfoiashodihasfhasihfioasfoisafoihasoifhaosihfoashfohsaofihsaofhasofhsaohifashfashflashflsakhfklsahfklashflsakhflkashflaskhflkashflafhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh')

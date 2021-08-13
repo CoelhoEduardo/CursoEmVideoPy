@@ -1,0 +1,6 @@
+José;35
+Maria;25
+Mariana;25
+Eduardo;23
+Antonio;17
+Katia;45
